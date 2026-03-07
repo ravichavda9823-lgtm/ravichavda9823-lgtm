@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ravi Chavda</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Building Scalable Web Applications</h3>
+<h3 align="center">Full Stack Developer | MERN Stack Developer | Building Scalable Web Applications</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -62,7 +62,7 @@
 
 #### 🧰 Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+<img src="https://skillicons.dev/icons?i=github,vscode,linkedin" />
 </p>
 
 ---
