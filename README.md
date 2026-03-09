@@ -69,17 +69,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ravichavda9823-lgtm&show_icons=true&theme=github_dark" />
-</p>
+
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravichavda9823-lgtm&theme=github-dark-blue" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravichavda9823-lgtm&layout=compact&theme=github_dark" />
-</p>
+
 
 ---
 
